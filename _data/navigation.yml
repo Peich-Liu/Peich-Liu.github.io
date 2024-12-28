@@ -1,16 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
   
   - title: "Education Experience"
     url: /edu/    
     
   - title: "Projects & Skills"
     url: /proj/
+
+  - title: "Publications"
+    url: /publications/
         
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Talks"
   #   url: /talks/  
