@@ -2,7 +2,7 @@
 title: "Education Experience"
 excerpt: "Education Experience"
 collection: edu
-permalink: /cv/
+permalink: /edu/
 ---
 
 {% include base_path %}
